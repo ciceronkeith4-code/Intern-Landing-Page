@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://interns.nclexamplifiedreviewcenter.com/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://interns.nclexamplifiedreviewcenter.com/assets/hero-dashboard.png</image:loc>
+      <image:title>NCLEX Amplified Interns Dashboard Suite</image:title>
+      <image:caption>Interactive DTR system, certificate creator, and live coding assessment sandbox for IT interns at NCLEX Amplified Review Center</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://interns.nclexamplifiedreviewcenter.com/assets/nclex-logo.png</image:loc>
+      <image:title>NCLEX Amplified Review Center Official Seal</image:title>
+      <image:caption>Official logo of NCLEX Amplified Review Center</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://interns.nclexamplifiedreviewcenter.com/certificate/template.png</image:loc>
+      <image:title>Accredited Certificate of Completion Template</image:title>
+      <image:caption>Official accredited certificate awarded to graduating student interns and OJT participants</image:caption>
+    </image:image>
+  </url>
+</urlset>

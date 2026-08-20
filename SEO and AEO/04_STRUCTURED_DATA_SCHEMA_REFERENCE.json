@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://interns.nclexamplifiedreviewcenter.com/#website",
+      "url": "https://interns.nclexamplifiedreviewcenter.com/",
+      "name": "NCLEX Amplified Interns — Official Internship & OJT Program",
+      "description": "Official landing page and internship portal for NCLEX Amplified Review Center OJT & student practicum programs.",
+      "publisher": {
+        "@id": "https://interns.nclexamplifiedreviewcenter.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://interns.nclexamplifiedreviewcenter.com/#organization",
+      "name": "NCLEX Amplified Review Center",
+      "alternateName": [
+        "NCLEX Amplified",
+        "NCLEX Amplified Interns",
+        "NCLEX Amplified OJT"
+      ],
+      "url": "https://nclexamplifiedreviewcenter.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://interns.nclexamplifiedreviewcenter.com/assets/nclex-logo.png",
+        "caption": "NCLEX Amplified Review Center Official Logo"
+      },
+      "image": "https://interns.nclexamplifiedreviewcenter.com/assets/hero-dashboard.png",
+      "description": "Founded in 2021, NCLEX Amplified Review Center is the Philippines' premier review center, dedicated to empowering nursing graduates and fostering technical excellence through comprehensive student internships and university-accredited OJT programs.",
+      "foundingDate": "2021",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BLK 12 Lot 13, Bahayang Pag-ASA Subd, Molino V Avenida Rizal",
+        "addressLocality": "Bacoor",
+        "addressRegion": "Cavite",
+        "postalCode": "4102",
+        "addressCountry": "PH"
+      },
+      "telephone": "+639206510410",
+      "email": "nclexamplifiedhr@gmail.com",
+      "sameAs": [
+        "https://www.facebook.com/NCLEXAmplifiedReviewCenter",
+        "https://nclexamplifiedreviewcenter.com/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+639206510410",
+        "contactType": "admissions",
+        "email": "nclexamplifiedhr@gmail.com",
+        "availableLanguage": [
+          "English",
+          "Filipino"
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://interns.nclexamplifiedreviewcenter.com/#webpage",
+      "url": "https://interns.nclexamplifiedreviewcenter.com/",
+      "name": "NCLEX Amplified Interns — The Official Internship & OJT Program | NCLEX Amplified Review Center",
+      "isPartOf": {
+        "@id": "https://interns.nclexamplifiedreviewcenter.com/#website"
+      },
+      "about": {
+        "@id": "https://interns.nclexamplifiedreviewcenter.com/#organization"
+      },
+      "description": "Official portal for the NCLEX Amplified Internship and OJT Program. Offering undergraduate BSIT and BSCS students structured industry training, real software engineering projects, mentorship, and accredited certification.",
+      "breadcrumb": {
+        "@id": "https://interns.nclexamplifiedreviewcenter.com/#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://interns.nclexamplifiedreviewcenter.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "NCLEX Amplified Review Center",
+          "item": "https://nclexamplifiedreviewcenter.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Internship & OJT Program",
+          "item": "https://interns.nclexamplifiedreviewcenter.com/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://interns.nclexamplifiedreviewcenter.com/#faq-schema",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who can apply for the internship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This program is open exclusively to BS Information Technology (BSIT) and BS Computer Science (BSCS) undergraduate students needing to complete their required school OJT or practicum curriculum credits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the program available for OJT requirements?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our internship program is specifically designed to accommodate official university OJT and practicum curriculum requirements. We provide complete documentation including Certificates of Completion, formal evaluations, and attendance tracking required by your school."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What departments are available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We accept interns across seven dedicated departments: Marketing, Technology (Web & Systems), Creative (Visual Design & Multimedia), Operations, Administration, Content (Educational & Research), and Events Management."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are required?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Applicants need an updated Resume/CV, an official School Endorsement / Recommendation Letter from your dean or coordinator, a copy of your valid student ID, and your school's MOA template if required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the internship?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The internship duration is flexible to align directly with your school's prescribed hours (typically 200 to 600 hours). Working schedules are structured during onboarding to ensure you meet your academic timeline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Click the 'Apply Now' button on this page to open the application portal. Fill in your personal details, select your university and desired department, upload your resume, and submit."
+          }
+        }
+      ]
+    }
+  ]
+}

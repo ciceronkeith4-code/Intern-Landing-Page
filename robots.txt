@@ -1,0 +1,48 @@
+# ==============================================================================
+# NCLEX Amplified Interns & OJT Program - Robots Configuration
+# Production Domain: https://interns.nclexamplifiedreviewcenter.com/
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /intern%20image/
+Allow: /marquee%20image/
+Allow: /certificate/
+Allow: /styles.css
+Allow: /app.js
+Allow: /sitemap.xml
+
+# Explicit AI Search Crawlers & Answer Engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# XML Sitemap Directive
+Sitemap: https://interns.nclexamplifiedreviewcenter.com/sitemap.xml
